@@ -1,0 +1,5 @@
+{
+  "name": "maven-springmvc-rest-hw",
+  "description": "Simple Spring MVC Hello World Java application prepared for Heroku deployment.",
+  "addons": []
+}
